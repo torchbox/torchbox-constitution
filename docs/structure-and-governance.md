@@ -184,6 +184,4 @@ others can be made by one body alone.
 
 -   **Redundancies of more than three people** -- requires approval by both Company Board and SLT (simple majority in each), with employees consulted beforehand
 
-### 
-
 

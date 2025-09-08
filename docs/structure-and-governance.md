@@ -7,8 +7,7 @@ A clear, accountable structure for sharing power and making decisions
 1.1 Torchbox's governance is based on three key groups, each with a
 defined remit:
 
--   **The [[Trust
-    > Board]{.underline}](https://find-and-update.company-information.service.gov.uk/company/12054233/officers)**
+-   **The [[Trust Board]](https://find-and-update.company-information.service.gov.uk/company/12054233/officers)**
     > controls the ownership of the company on behalf of all co-owners
     > and ensures it is run in line with our purpose, values and
     > long-term interests. This includes financial oversight,
@@ -16,8 +15,7 @@ defined remit:
     > holding leadership accountable for the business\'s health and
     > direction.
 
--   **The [[Company
-    > Board]{.underline}](https://find-and-update.company-information.service.gov.uk/company/03983354/officers)**
+-   **The [[Company Board]](https://find-and-update.company-information.service.gov.uk/company/03983354/officers)**
     > has ultimate responsibility for the running of Torchbox and
     > meeting the company's legal and statutory obligations.
 
@@ -147,7 +145,7 @@ range of formal and informal channels, including:
 -   **The People team**, for feedback on policy, wellbeing, and
     > workplace experience
 
-5.2 Voice Groups focus on topics central to our purpose, vision and
+5.2 Voice Groups focus on topics central to our purpose, vision, and
 values, including sustainability, wellbeing, and inclusion. Open to all
 co-owners, these groups are given access to admin support and budget, as
 well as the mandate to shape and influence company policy and

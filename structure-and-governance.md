@@ -7,8 +7,8 @@ A clear, accountable structure for sharing power and making decisions
 1.1 Torchbox's governance is based on three key groups, each with a
 defined remit:
 
--   **The [[Trust
-    > Board]{.underline}](https://find-and-update.company-information.service.gov.uk/company/12054233/officers)**
+-   **The [Trust
+    > Board](https://find-and-update.company-information.service.gov.uk/company/12054233/officers)**
     > controls the ownership of the company on behalf of all co-owners
     > and ensures it is run in line with our purpose, values and
     > long-term interests. This includes financial oversight,
@@ -16,8 +16,8 @@ defined remit:
     > holding leadership accountable for the business\'s health and
     > direction.
 
--   **The [[Company
-    > Board]{.underline}](https://find-and-update.company-information.service.gov.uk/company/03983354/officers)**
+-   **The [Company
+    > Board](https://find-and-update.company-information.service.gov.uk/company/03983354/officers)**
     > has ultimate responsibility for the running of Torchbox and
     > meeting the company's legal and statutory obligations.
 
@@ -192,7 +192,7 @@ any time via the Trustees.
 ### 7. Special Consents
 
 7.1 [[Special
-Consents]{.underline}](https://docs.google.com/spreadsheets/d/1ZxQNdc9coJDqxPCIYbxlXpN_8ted-97_BMQXwLedClA/edit?gid=672296824#gid=672296824)
+Consents]](https://docs.google.com/spreadsheets/d/1ZxQNdc9coJDqxPCIYbxlXpN_8ted-97_BMQXwLedClA/edit?gid=672296824#gid=672296824)
 are a register of important decisions, showing for each: who makes the
 decision, the majority required, and whether employees must be consulted
 beforehand. The full register is kept in the separate *Special Consents*

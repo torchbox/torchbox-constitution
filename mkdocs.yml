@@ -1,0 +1,54 @@
+
+site_name: Torchbox Constitution
+site_description: Torchbox Constitution (v0.6) – Employee-owned governance, rights & responsibilities
+site_url: https://ollywillans.github.io/torchbox-constitution
+repo_url: https://github.com/ollywillans/torchbox-constitution
+repo_name: ollywillans/torchbox-constitution
+
+theme:
+  name: material
+  logo: assets/torchbox-logo.svg
+  favicon: assets/favicon.png
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: teal
+      accent: orange
+    - scheme: slate
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Co-owner Rights & Responsibilities: rights-and-responsibilities.md
+  - Purpose & Principles: purpose-and-principles.md
+  - Structure & Governance: structure-and-governance.md
+  - Financial Management: financial-management.md
+  - Glossary: glossary.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true

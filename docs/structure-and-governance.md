@@ -9,13 +9,9 @@ defined remit:
 
 -   **The [Trust Board](https://find-and-update.company-information.service.gov.uk/company/12054233/officers)** controls the ownership of the company on behalf of all co-owners and ensures it is run in line with our purpose, values and long-term interests. This includes financial oversight, representing the co-owner\'s perspective in strategic matters, and holding leadership accountable for the business\'s health and direction.
 
--   **The [Company Board](https://find-and-update.company-information.service.gov.uk/company/03983354/officers)**
-    > has ultimate responsibility for the running of Torchbox and
-    > meeting the company's legal and statutory obligations.
+-   **The [Company Board](https://find-and-update.company-information.service.gov.uk/company/03983354/officers)**  has ultimate responsibility for the running of Torchbox and meeting the company's legal and statutory obligations.
 
--   **The Senior Leadership Team (SLT)** oversees the day-to-day
-    > operations of the business, encompassing strategy, business
-    > performance, operations, and management.
+-   **The Senior Leadership Team (SLT)** oversees the day-to-day operations of the business, encompassing strategy, business performance, operations, and management.
 
 1.2 Torchbox Ltd is owned by the Torchbox Employee Ownership Trust
 (EOT), which holds 100% of the company's shares on behalf of all
@@ -31,19 +27,13 @@ dismiss the CEO and other company directors.
 
 2.2 The Trust Board consists of:
 
--   Four elected **Employee Trustee Directors**, elected via
-    > ranked-choice voting by all Co-owners and Long Term Contractors
-    > for three-year terms.
+-   Four elected **Employee Trustee Directors**, elected via ranked-choice voting by all Co-owners and Long Term Contractors for three-year terms.
 
--   One **Independent Trustee Director**, recruited by the Trustees and
-    > CEO and appointed for a two-year term.
+-   One **Independent Trustee Director**, recruited by the Trustees and CEO and appointed for a two-year term.
 
--   One **Founder Trustee Director**, reviewed and renewed by mutual
-    > agreement between Olly Willans or Tom Dyson and the Trustees after
-    > each three-year term.
+-   One **Founder Trustee Director**, reviewed and renewed by mutual agreement between Olly Willans or Tom Dyson and the Trustees after each three-year term.
 
--   One **representative from the Board of the Company** (can be the
-    > same as the Founder Trustee).
+-   One **representative from the Board of the Company** (can be the same as the Founder Trustee).
 
 2.3 The Trustee Directors meet quarterly with the CEO to review business
 performance, finances, and people matters. The CEO reports on company
@@ -131,13 +121,11 @@ range of formal and informal channels, including:
 
 -   **Open-door access** to the SLT and the Company Board
 
--   **Input via the Trustee Directors**, who represent the co-owner\'s
-    > views in discussions with leadership
+-   **Input via the Trustee Directors**, who represent the co-owner\'s views in discussions with leadership
 
 -   **Team leads and line managers**
 
--   **The People team**, for feedback on policy, wellbeing, and
-    > workplace experience
+-   **The People team**, for feedback on policy, wellbeing, and workplace experience
 
 5.2 Voice Groups focus on topics central to our purpose, vision, and
 values, including sustainability, wellbeing, and inclusion. Open to all
@@ -151,17 +139,11 @@ initiatives in their respective areas.
 
 6.1 Torchbox is governed by three key documents:
 
--   The **Articles of Association** of Torchbox Limited define the
-    > company's legal structure, purpose, powers, and decision-making
-    > processes.
+-   The **Articles of Association** of Torchbox Limited define the company's legal structure, purpose, powers, and decision-making processes.
 
--   The **Deed of Trust** for Torchbox Trustees Limited establishes the
-    > Employee Ownership Trust and ensures the business is held and run
-    > for the long-term benefit of its co-owners.
+-   The **Deed of Trust** for Torchbox Trustees Limited establishes the Employee Ownership Trust and ensures the business is held and run for the long-term benefit of its co-owners.
 
--   This **Constitution** sets out how we work together day-to-day,
-    > clarifying how decisions are made, how rewards are shared, and the
-    > rights and responsibilities of co-owners.
+-   This **Constitution** sets out how we work together day-to-day, clarifying how decisions are made, how rewards are shared, and the rights and responsibilities of co-owners.
 
 6.2 While the Articles and the Deed are formal legal documents, the
 Constitution is a living agreement among co-owners, aligned with our
@@ -198,14 +180,10 @@ others can be made by one body alone.
 
 7.3 Examples:
 
--   **Capital expenditure over £50k (unbudgeted)** -- requires joint
-    > approval by the Company Board and Trust Board, both by simple
-    > majority
+-   **Capital expenditure over £50k (unbudgeted)** -- requires joint approval by the Company Board and Trust Board, both by simple majority
 
--   **Redundancies of more than three people** -- requires approval by
-    > both Company Board and SLT (simple majority in each), with
-    > employees consulted beforehand
+-   **Redundancies of more than three people** -- requires approval by both Company Board and SLT (simple majority in each), with employees consulted beforehand
 
 ### 
 
-Financial management
+

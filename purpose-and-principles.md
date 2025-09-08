@@ -79,7 +79,7 @@ what we learn and welcome change
 
 -   Seek out feedback and act on it
 
-### **4. Social impact**
+### 4. Social impact
 
 *Creating positive social change is central to our mission.*
 
@@ -95,7 +95,7 @@ client work.
 4.4 We prioritise transparency, publishing impact data and sharing
 progress openly in our annual Impact Report.
 
-### **5. Ethical fit**
+### 5. Ethical fit**
 
 *We carefully select our clients to stay true to our purpose and
 values.*
@@ -110,7 +110,7 @@ public good.
 5.3 We avoid sectors that are harmful to people or the planet, even when
 the work might seem to serve a positive purpose.
 
-### **6. Sustainability**
+### 6. Sustainability
 
 *We take action to reduce our environmental footprint.*
 
@@ -120,7 +120,7 @@ the work might seem to serve a positive purpose.
 
 6.3 We measure, report and reduce our emissions.
 
-### **7. Diversity and inclusion**
+### 7. Diversity and inclusion**
 
 *We build an inclusive culture where everyone can belong and thrive.*
 

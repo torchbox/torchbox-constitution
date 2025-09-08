@@ -3,19 +3,19 @@
 *A values-led, co-owner-first framework for financial decision-making
 and governance at Torchbox*
 
-### **1. Financial transparency and accountability**
+### 1. Financial transparency and accountability**
 
-### *Understanding our financial journey helps us grow together as co-owners.*
+*Understanding our financial journey helps us grow together as co-owners.*
 
-### 1.1 The SLT will share quarterly updates on our financial position, including performance, expenditure, and forward-looking plans.
+1.1 The SLT will share quarterly updates on our financial position, including performance, expenditure, and forward-looking plans.
 
-### 1.2 Financial targets for the year will be set by the SLT and shared with all co-owners as part of the annual planning process.
+1.2 Financial targets for the year will be set by the SLT and shared with all co-owners as part of the annual planning process.
 
-### 1.3 The Trust Board may request additional information or context where needed, and this will be shared except in exceptional, extenuating circumstances such as confidentiality issues.
+1.3 The Trust Board may request additional information or context where needed, and this will be shared except in exceptional, extenuating circumstances such as confidentiality issues.
 
-### 
 
-### **2. Profit share**
+
+### 2. Profit share**
 
 *Success should be shared fairly and transparently across the business.*
 
@@ -69,7 +69,7 @@ and income of half the threshold would receive 50% of the £3,600 bonus.
 is paid to receive the bonus. If they have left the company before this
 point, they will not receive the bonus for that period.
 
-### **4. Financial sustainability and investment**
+### 4. Financial sustainability and investment**
 
 *Investment protects Torchbox's future, even when that means reducing
 short-term rewards.*
@@ -86,7 +86,7 @@ held in cash rather than outstanding invoices.
 allow for strategic investment. Any such decision must be approved by
 the Trust Board.
 
-### **5. Fair compensation**
+### 5. Fair compensation**
 
 *Everyone deserves to be paid fairly.*
 
@@ -120,7 +120,7 @@ compensation.
 
 ### 
 
-### **6. SLT pay**
+### 6. SLT pay**
 
 *Leadership rewards must reflect performance and responsibility, not
 just seniority.*
@@ -151,7 +151,7 @@ the company's resilience and evolution.
 
 6.4 The Remuneration Committee will make the final decision.
 
-### **7. Pay for International Associates**
+### 7. Pay for International Associates**
 
 We aim for an approach that ensures equitable treatment while
 recognising the unique considerations of international engagements:

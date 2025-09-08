@@ -130,5 +130,3 @@ the work might seem to serve a positive purpose.
 
 7.3 We support co-owner-led diversity initiatives and take active steps
 to prevent discrimination.
-
-Structure & governance

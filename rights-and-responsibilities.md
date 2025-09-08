@@ -112,4 +112,3 @@ for our clients and find ways to deliver more meaningful outcomes.
 4.3 Play a role in improving Torchbox's impact as a company, including
 its environmental footprint and contribution to the wider community.
 
-Our purpose & principles

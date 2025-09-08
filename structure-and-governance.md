@@ -153,7 +153,7 @@ co-owners, these groups are given access to admin support and budget, as
 well as the mandate to shape and influence company policy and
 initiatives in their respective areas.
 
-## 5.3 Voice Groups and Trustee Directors influence people policies, sustainability strategy, and the broader employee experience by representing co-owner perspectives in ongoing leadership discussions.
+5.3 Voice Groups and Trustee Directors influence people policies, sustainability strategy, and the broader employee experience by representing co-owner perspectives in ongoing leadership discussions.
 
 ### 6. The Constitution, the Deed of Trust, and the Articles of Association
 

@@ -30,7 +30,6 @@ theme:
 extra_css:
   - https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap
   - assets/overrides.css
-  - assets/glossary.css
 
 extra_javascript:
   - assets/glossary.js

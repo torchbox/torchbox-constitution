@@ -1,4 +1,4 @@
-# Chapter 4: Structure & governance
+# 3. Structure & governance
 
 A clear, accountable structure for sharing power and making decisions
 

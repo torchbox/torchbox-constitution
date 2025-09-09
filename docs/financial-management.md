@@ -1,4 +1,4 @@
-# Chapter 5: Financial management
+# 4. Financial management
 
 *A values-led, co-owner-first framework for financial decision-making
 and governance at Torchbox*

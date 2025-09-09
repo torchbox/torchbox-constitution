@@ -1,0 +1,38 @@
+/* Visual hint for terms */
+.glossary-term {
+  border-bottom: 1px dotted currentColor;
+  cursor: help;
+  position: relative;
+}
+
+/* Tooltip */
+.glossary-term::after {
+  content: attr(data-def);
+  position: absolute;
+  left: 0;
+  top: 100%;
+  z-index: 30;
+  min-width: 16rem;
+  max-width: min(34rem, 90vw);
+  margin-top: .45rem;
+  padding: .6rem .75rem;
+  font-size: .85rem;
+  line-height: 1.35;
+  color: var(--md-default-fg-color);
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--light);
+  box-shadow: 0 6px 20px rgba(0,0,0,.12);
+  border-radius: .5rem;
+  white-space: normal;
+  opacity: 0;
+  transform: translateY(-2px);
+  pointer-events: none;
+  transition: opacity .12s ease, transform .12s ease;
+}
+
+/* Show on hover or keyboard focus */
+.glossary-term:hover::after,
+.glossary-term:focus::after {
+  opacity: 1;
+  transform: translateY(0);
+}

@@ -1,4 +1,4 @@
-# Chapter 2: Rights & responsibilities
+# 1. Rights & responsibilities
 
 *Employee ownership at Torchbox means the business is held in trust for
 the benefit of all employees.*

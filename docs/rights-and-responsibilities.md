@@ -62,8 +62,6 @@ co-owners, we share responsibility for the financial health of the
 business, balancing our values with sustainability and long-term
 viability.
 
-### 
-
 ### 3. Working together
 
 *A work environment where openness, trust, and collaboration help us all

@@ -1,0 +1,68 @@
+/* -------- Torchbox-ish base tokens (swap in exact brand values later) -------- */
+:root {
+  /* Primary & accent (light mode) */
+  --tb-primary: #0f766e;   /* TODO replace with Torchbox primary */
+  --tb-accent:  #f59e0b;   /* TODO replace with Torchbox accent */
+
+  /* Typography */
+  --tb-font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+                  Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans",
+                  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+  /* Corners & shadows */
+  --tb-radius: 14px;
+  --tb-shadow: 0 8px 24px rgba(0,0,0,.06);
+}
+
+/* Dark scheme */
+:root[data-md-color-scheme="slate"] {
+  --tb-primary: #2dd4bf; /* brighter teal for contrast */
+  --tb-accent:  #fbbf24;
+}
+
+/* -------- Map tokens to Material theme vars -------- */
+:root {
+  /* Material’s “custom” palette hook */
+  --md-primary-fg-color: var(--tb-primary);
+  --md-accent-fg-color:  var(--tb-accent);
+
+  /* Text & background fine-tuning */
+  --md-typeset-a-color: var(--tb-primary);
+}
+
+/* -------- Typography -------- */
+:root {
+  --md-text-font: var(--tb-font-sans);
+  --md-code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}
+
+/* Headings: slightly bolder, tighter */
+.md-typeset h1 { letter-spacing: -0.01em; font-weight: 750; }
+.md-typeset h2 { letter-spacing: -0.01em; font-weight: 700; }
+.md-typeset h3 { font-weight: 650; }
+
+/* -------- Cards / surfaces -------- */
+.md-typeset .admonition,
+.md-typeset details,
+.md-typeset .mdx-container, /* custom wrappers */
+.md-typeset .highlight {
+  border-radius: var(--tb-radius);
+  box-shadow: var(--tb-shadow);
+}
+
+/* -------- Buttons / links -------- */
+.md-button, .md-typeset .md-button {
+  border-radius: 999px;
+  padding: .6rem 1rem;
+}
+
+a:hover { text-decoration-thickness: 2px; text-underline-offset: 3px; }
+
+/* -------- Header & nav tweaks -------- */
+.md-header {
+  box-shadow: 0 4px 12px rgba(0,0,0,.04);
+}
+.md-nav__title,
+.md-nav__link--active {
+  font-weight: 650;
+}

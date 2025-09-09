@@ -30,10 +30,10 @@ theme:
 nav:
   - Home: index.md
   - Introduction: introduction.md
-  - Co-owner Rights & Responsibilities: rights-and-responsibilities.md
-  - Purpose & Principles: purpose-and-principles.md
-  - Structure & Governance: structure-and-governance.md
-  - Financial Management: financial-management.md
+  - 1. Co-owner Rights & Responsibilities: rights-and-responsibilities.md
+  - 2. Purpose & Principles: purpose-and-principles.md
+  - 3. Structure & Governance: structure-and-governance.md
+  - 4. Financial Management: financial-management.md
   - Glossary: glossary.md
 
 plugins:

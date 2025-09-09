@@ -3,7 +3,7 @@
 *Employee ownership at Torchbox means the business is held in trust for
 the benefit of all employees.*
 
-### Co-owner rights
+### 1. Co-owner rights
 
 *As co-owners, we have the right to:*
 
@@ -31,7 +31,7 @@ the benefit of all employees.*
 8.  Work in an environment built on inclusion, dignity and mutual
     respect.
 
-### **2. Responsibilities of ownership**
+### 2. Responsibilities of ownership
 
 *Co-ownership means playing an active part with curiosity, care and
 responsibility.*
@@ -64,7 +64,7 @@ viability.
 
 ### 
 
-### **3. Working together**
+### 3. Working together
 
 *A work environment where openness, trust, and collaboration help us all
 thrive.*
@@ -111,5 +111,3 @@ for our clients and find ways to deliver more meaningful outcomes.
 
 4.3 Play a role in improving Torchbox's impact as a company, including
 its environmental footprint and contribution to the wider community.
-
-Our purpose & principles

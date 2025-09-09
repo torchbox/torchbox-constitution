@@ -1,13 +1,13 @@
 # 2. Purpose & principles
 
-### 1. Our purpose
+### 2.1. Our purpose
 
 *Torchbox exists to empower positive changemakers.*
 
 This purpose guides our decisions, unites us as co-owners, shapes our
 choice of work and clients, and defines our contribution to society.
 
-### 2. Our vision
+### 2.2. Our vision
 
 *We\'re setting a new standard for high-impact, responsible business.*
 
@@ -22,7 +22,7 @@ learning culture that attracts and retains exceptional people.
 2.3 **Sustainability:** We nurture our growth in a manner that embodies
 our values and prioritises our people and planet.
 
-### 3. Our values
+### 2.3. Our values
 
 *Our values shape how we work, lead, and collaborate.*
 
@@ -79,7 +79,7 @@ what we learn and welcome change
 
 -   Seek out feedback and act on it
 
-### **4. Social impact**
+### 2.4. Social impact
 
 *Creating positive social change is central to our mission.*
 
@@ -95,7 +95,7 @@ client work.
 4.4 We prioritise transparency, publishing impact data and sharing
 progress openly in our annual Impact Report.
 
-### **5. Ethical fit**
+### 2.5. Ethical fit
 
 *We carefully select our clients to stay true to our purpose and
 values.*
@@ -110,7 +110,7 @@ public good.
 5.3 We avoid sectors that are harmful to people or the planet, even when
 the work might seem to serve a positive purpose.
 
-### **6. Sustainability**
+### 2.6. Sustainability
 
 *We take action to reduce our environmental footprint.*
 
@@ -120,7 +120,7 @@ the work might seem to serve a positive purpose.
 
 6.3 We measure, report and reduce our emissions.
 
-### **7. Diversity and inclusion**
+### 2.7. Diversity and inclusion
 
 *We build an inclusive culture where everyone can belong and thrive.*
 
@@ -130,5 +130,3 @@ the work might seem to serve a positive purpose.
 
 7.3 We support co-owner-led diversity initiatives and take active steps
 to prevent discrimination.
-
-Structure & governance

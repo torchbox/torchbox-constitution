@@ -1,67 +1,60 @@
-/* -------- Torchbox-ish base tokens (swap in exact brand values later) -------- */
+/* ---------- Torchbox brand tokens ---------- */
 :root {
-  /* Primary & accent (light mode) */
-  --tb-primary: #0f766e;   /* TODO replace with Torchbox primary */
-  --tb-accent:  #f59e0b;   /* TODO replace with Torchbox accent */
+  /* Brand colours */
+  --tb-primary: #005353;   /* Torchbox teal */
+  --tb-accent:  #ff7a59;   /* Torchbox orange */
 
-  /* Typography */
-  --tb-font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI",
-                  Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans",
-                  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  /* Font */
+  --tb-font-sans: "Outfit", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+                  Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 
-  /* Corners & shadows */
-  --tb-radius: 14px;
-  --tb-shadow: 0 8px 24px rgba(0,0,0,.06);
+  /* Surfaces & shadows */
+  --tb-radius: 12px;
+  --tb-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
 }
 
-/* Dark scheme */
+/* Dark mode tweak */
 :root[data-md-color-scheme="slate"] {
-  --tb-primary: #2dd4bf; /* brighter teal for contrast */
+  --tb-primary: #2dd4bf;
   --tb-accent:  #fbbf24;
 }
 
-/* -------- Map tokens to Material theme vars -------- */
+/* ---------- Map tokens into MkDocs Material ---------- */
 :root {
-  /* Material’s “custom” palette hook */
   --md-primary-fg-color: var(--tb-primary);
-  --md-accent-fg-color:  var(--tb-accent);
+  --md-accent-fg-color: var(--tb-accent);
 
-  /* Text & background fine-tuning */
+  --md-text-font: var(--tb-font-sans);
+  --md-code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+
   --md-typeset-a-color: var(--tb-primary);
 }
 
-/* -------- Typography -------- */
-:root {
-  --md-text-font: var(--tb-font-sans);
-  --md-code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+/* ---------- Headings ---------- */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: var(--tb-font-sans);
+  letter-spacing: -0.01em;
+  font-weight: 700;
 }
 
-/* Headings: slightly bolder, tighter */
-.md-typeset h1 { letter-spacing: -0.01em; font-weight: 750; }
-.md-typeset h2 { letter-spacing: -0.01em; font-weight: 700; }
-.md-typeset h3 { font-weight: 650; }
+/* ---------- Buttons ---------- */
+.md-button, .md-typeset .md-button {
+  border-radius: 999px;
+  padding: 0.6rem 1.2rem;
+  font-weight: 600;
+}
 
-/* -------- Cards / surfaces -------- */
+/* ---------- Cards / Admonitions ---------- */
 .md-typeset .admonition,
 .md-typeset details,
-.md-typeset .mdx-container, /* custom wrappers */
 .md-typeset .highlight {
   border-radius: var(--tb-radius);
   box-shadow: var(--tb-shadow);
 }
 
-/* -------- Buttons / links -------- */
-.md-button, .md-typeset .md-button {
-  border-radius: 999px;
-  padding: .6rem 1rem;
-}
-
-a:hover { text-decoration-thickness: 2px; text-underline-offset: 3px; }
-
-/* -------- Header & nav tweaks -------- */
-.md-header {
-  box-shadow: 0 4px 12px rgba(0,0,0,.04);
-}
+/* ---------- Navigation ---------- */
 .md-nav__title,
 .md-nav__link--active {
   font-weight: 650;

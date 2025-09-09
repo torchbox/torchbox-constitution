@@ -27,6 +27,14 @@ theme:
   logo: assets/torchbox-logo.svg
   favicon: assets/favicon.png
 
+extra_css:
+  - https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap
+  - assets/overrides.css
+  - assets/glossary.css
+
+extra_javascript:
+  - assets/glossary.js
+
 extra:
   social:
     - icon: fontawesome/brands/linkedin
@@ -50,12 +58,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-extra_css:
-  - assets/overrides.css
-
 
 nav:
-  - Home: index.md
   - Introduction: introduction.md
   - 1. Co-owner Rights & Responsibilities: rights-and-responsibilities.md
   - 2. Purpose & Principles: purpose-and-principles.md

@@ -41,4 +41,3 @@ Employee ownership is a learning journey, so this Constitution is a work
 in progress. It will evolve to safeguard our company and strengthen our
 culture for the Co-owners of the future.
 
-Co-owner rights & responsibilities

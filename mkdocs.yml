@@ -1,40 +1,39 @@
-
 site_name: Torchbox Constitution
-site_description: Torchbox Constitution (v0.6) – Employee-owned governance, rights & responsibilities
 site_url: https://ollywillans.github.io/torchbox-constitution
 repo_url: https://github.com/ollywillans/torchbox-constitution
 repo_name: ollywillans/torchbox-constitution
 
 theme:
   name: material
-  logo: assets/torchbox-logo.svg
-  favicon: assets/favicon.png
   features:
     - navigation.instant
     - navigation.sections
     - navigation.top
     - toc.integrate
+    - content.action.edit
+    - content.code.copy
     - search.suggest
     - search.highlight
   palette:
     - scheme: default
-      primary: teal
-      accent: orange
+      primary: custom
+      accent: custom
     - scheme: slate
-      primary: teal
-      accent: orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+  logo: assets/torchbox-logo.svg
+  favicon: assets/favicon.png
 
-nav:
-  - Home: index.md
-  - Introduction: introduction.md
-  - 1. Co-owner Rights & Responsibilities: rights-and-responsibilities.md
-  - 2. Purpose & Principles: purpose-and-principles.md
-  - 3. Structure & Governance: structure-and-governance.md
-  - 4. Financial Management: financial-management.md
-  - Glossary: glossary.md
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/torchbox/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/torchbox/
+  generator: false
 
 plugins:
   - search
@@ -48,7 +47,20 @@ markdown_extensions:
       permalink: true
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
+
+extra_css:
+  - assets/overrides.css
+
+
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - 1. Co-owner Rights & Responsibilities: rights-and-responsibilities.md
+  - 2. Purpose & Principles: purpose-and-principles.md
+  - 3. Structure & Governance: structure-and-governance.md
+  - 4. Financial Management: financial-management.md
+  - Glossary: glossary.md
+
+

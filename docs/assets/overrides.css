@@ -1,28 +1,29 @@
-/* ---------- Torchbox brand tokens ---------- */
-:root {
-  /* Brand colours */
-  --tb-primary: #005353;   /* Torchbox teal */
-  --tb-accent:  #ff7a59;   /* Torchbox orange */
+/* ===============================
+   Torchbox look & feel (MkDocs-Material)
+   =============================== */
 
-  /* Font */
+/* --- Brand tokens (tweak just these two if needed) --- */
+:root {
+  --tb-primary: #005353;  /* Torchbox teal (adjust if needed) */
+  --tb-accent:  #ff7a59;  /* Torchbox orange (adjust if needed) */
+
   --tb-font-sans: "Outfit", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
                   Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 
-  /* Surfaces & shadows */
   --tb-radius: 12px;
-  --tb-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+  --tb-shadow: 0 8px 28px rgba(0,0,0,.06);
 }
 
-/* Dark mode tweak */
+/* Dark mode contrast tweaks */
 :root[data-md-color-scheme="slate"] {
-  --tb-primary: #2dd4bf;
-  --tb-accent:  #fbbf24;
+  --tb-primary: #20b2aa;   /* brighter teal for dark mode */
+  --tb-accent:  #ff9a7c;   /* slightly brighter accent for dark mode */
 }
 
-/* ---------- Map tokens into MkDocs Material ---------- */
+/* --- Map tokens to Material variables --- */
 :root {
   --md-primary-fg-color: var(--tb-primary);
-  --md-accent-fg-color: var(--tb-accent);
+  --md-accent-fg-color:  var(--tb-accent);
 
   --md-text-font: var(--tb-font-sans);
   --md-code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
@@ -30,7 +31,7 @@
   --md-typeset-a-color: var(--tb-primary);
 }
 
-/* ---------- Headings ---------- */
+/* --- Typography --- */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
@@ -38,15 +39,19 @@
   letter-spacing: -0.01em;
   font-weight: 700;
 }
+.md-typeset h1 { font-size: clamp(2rem, 2vw + 1.2rem, 2.6rem); }
+.md-typeset h2 { font-size: clamp(1.5rem, 1.2vw + 1rem, 2rem); }
+.md-typeset p  { line-height: 1.7; }
 
-/* ---------- Buttons ---------- */
+/* --- Buttons / links --- */
 .md-button, .md-typeset .md-button {
   border-radius: 999px;
-  padding: 0.6rem 1.2rem;
+  padding: .6rem 1.1rem;
   font-weight: 600;
 }
+a:hover { text-decoration-thickness: 2px; text-underline-offset: 3px; }
 
-/* ---------- Cards / Admonitions ---------- */
+/* --- Cards / surfaces (admonitions, code blocks) --- */
 .md-typeset .admonition,
 .md-typeset details,
 .md-typeset .highlight {
@@ -54,8 +59,9 @@
   box-shadow: var(--tb-shadow);
 }
 
-/* ---------- Navigation ---------- */
-.md-nav__title,
-.md-nav__link--active {
-  font-weight: 650;
-}
+/* --- Header & nav tweaks --- */
+.md-header { box-shadow: 0 4px 12px rgba(0,0,0,.04); }
+.md-nav__title, .md-nav__link--active { font-weight: 650; }
+
+/* --- Optional hero spacing on Home --- */
+.md-content__inner > :is(h1, h2):first-child { margin-top: .25rem; }

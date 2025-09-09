@@ -42,22 +42,19 @@ The enjoyment value
 
 The responsibility value
 
--   We take ownership every day, we stand up for what we believe in, and
-    > we use business as a force for good
+-   We take ownership every day, we stand up for what we believe in, and we use business as a force for good
 
 -   Challenge ourselves and others to do the right thing
 
 -   Follow through on our commitments
 
--   Make responsible choices that benefit our co-owners, clients,
-    > society and the environment
+-   Make responsible choices that benefit our co-owners, clients, society and the environment
 
 2.3.3 **Raise the Bar:**
 
 The quality value
 
--   We challenge and support each other as co-owners to create the
-    > quality outcomes we're proud of
+-   We challenge and support each other as co-owners to create the quality outcomes we're proud of
 
 -   Think one step ahead
 
@@ -74,8 +71,7 @@ what we learn and welcome change
 
 -   Look up and out to find fresh, new thinking
 
--   Intentionally create space to experiment, fail and elevate our work
-    > together
+-   Intentionally create space to experiment, fail and elevate our work together
 
 -   Seek out feedback and act on it
 

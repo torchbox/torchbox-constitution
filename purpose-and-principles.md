@@ -1,4 +1,4 @@
-# Chapter 3: Purpose & principles
+# 2. Purpose & principles
 
 ### 1. Our purpose
 

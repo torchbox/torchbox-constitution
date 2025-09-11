@@ -1,7 +1,8 @@
 site_name: Torchbox Constitution
-site_url: https://ollywillans.github.io/torchbox-constitution
-repo_url: https://github.com/ollywillans/torchbox-constitution
-repo_name: ollywillans/torchbox-constitution
+site_url: https://torchbox.github.io/torchbox-constitution
+repo_url: https://github.com/torchbox/torchbox-constitution
+repo_name: torchbox/torchbox-constitution
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -30,7 +31,7 @@ theme:
 extra_css:
   - https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap
   - assets/overrides.css
-  - assets/glossary.css  
+  - assets/glossary.css
 
 extra_javascript:
   - assets/glossary.js
@@ -59,7 +60,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-
 nav:
   - Introduction: introduction.md
   - 1. Co-owner Rights & Responsibilities: rights-and-responsibilities.md
@@ -67,5 +67,3 @@ nav:
   - 3. Structure & Governance: structure-and-governance.md
   - 4. Financial Management: financial-management.md
   - Glossary: glossary.md
-
-

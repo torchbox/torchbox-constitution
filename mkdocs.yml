@@ -61,7 +61,7 @@ markdown_extensions:
       custom_checkbox: true
 
 nav:
-  - Introduction: introduction.md
+  - Introduction: index.md
   - 1. Co-owner Rights & Responsibilities: rights-and-responsibilities.md
   - 2. Purpose & Principles: purpose-and-principles.md
   - 3. Structure & Governance: structure-and-governance.md

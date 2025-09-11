@@ -40,3 +40,12 @@ principles on which the business was built.
 Employee ownership is a learning journey, so this Constitution is a work
 in progress. It will evolve to safeguard our company and strengthen our
 culture for the Co-owners of the future.
+
+<div class="image-grid">
+  <div class="image-grid__item"><img src="assets/images/Kyle.webp" alt="" loading="lazy" decoding="async"></div>
+  <div class="image-grid__item"><img src="assets/images/Lisa.webp" alt="" loading="lazy" decoding="async"></div>
+  <div class="image-grid__item"><img src="assets/images/Felicity.webp" alt="" loading="lazy" decoding="async"></div>
+  <div class="image-grid__item"><img src="assets/images/Olly.webp" alt="" loading="lazy" decoding="async"></div>
+  <div class="image-grid__item"><img src="assets/images/Ben.webp" alt="" loading="lazy" decoding="async"></div>
+  <div class="image-grid__item"><img src="assets/images/Ben.webp" alt="" loading="lazy" decoding="async"></div>
+</div>

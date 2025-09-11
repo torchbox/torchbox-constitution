@@ -7,10 +7,13 @@
   --color--black: #000;
   --color--coral: #ee5276;
   --color--coral-dark: #be425e;
+  --color--sky: #659ff2;
 
   --font--primary: "Outfit", sans-serif;
 
   --content-width: 720px;
+
+  --photo-size: 160px;
 }
 
 /* --- Map tokens to Material variables --- */
@@ -133,4 +136,20 @@
   font-weight: 650;
 }
 
+/* --- Draft photo grid --- */
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, var(--photo-size));
+  grid-auto-rows: var(--photo-size);
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 3rem 1.5rem;
+}
 
+.image-grid__item img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  border-radius: 50%;
+}

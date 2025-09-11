@@ -1,67 +1,130 @@
-/* ===============================
-   Torchbox look & feel (MkDocs-Material)
-   =============================== */
-
-/* --- Brand tokens (tweak just these two if needed) --- */
 :root {
-  --tb-primary: #005353;  /* Torchbox teal (adjust if needed) */
-  --tb-accent:  #ff7a59;  /* Torchbox orange (adjust if needed) */
+  /* Torchbox theme colors */
+  --color--white: #fff;
+  --color--grey-20: #ccc;
+  --color--grey-70: #4d4d4d;
+  --color--eclipse: #1d2325;
+  --color--black: #000;
+  --color--coral: #ee5276;
+  --color--coral-dark: #be425e;
 
-  --tb-font-sans: "Outfit", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
-                  Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --font--primary: "Outfit", sans-serif;
 
-  --tb-radius: 12px;
-  --tb-shadow: 0 8px 28px rgba(0,0,0,.06);
-}
-
-/* Dark mode contrast tweaks */
-:root[data-md-color-scheme="slate"] {
-  --tb-primary: #20b2aa;   /* brighter teal for dark mode */
-  --tb-accent:  #ff9a7c;   /* slightly brighter accent for dark mode */
+  --content-width: 720px;
 }
 
 /* --- Map tokens to Material variables --- */
 :root {
-  --md-primary-fg-color: var(--tb-primary);
-  --md-accent-fg-color:  var(--tb-accent);
+  --md-primary-fg-color: var(--color--eclipse);
+  --md-accent-fg-color: var(--color--coral);
 
-  --md-text-font: var(--tb-font-sans);
-  --md-code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  --md-text-font: var(--font--primary);
 
-  --md-typeset-a-color: var(--tb-primary);
+  --md-typeset-a-color: var(--color--coral);
 }
 
 /* --- Typography --- */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
-  font-family: var(--tb-font-sans);
-  letter-spacing: -0.01em;
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  color: var(--color--eclipse);
 }
-.md-typeset h1 { font-size: clamp(2rem, 2vw + 1.2rem, 2.6rem); }
-.md-typeset h2 { font-size: clamp(1.5rem, 1.2vw + 1rem, 2rem); }
-.md-typeset p  { line-height: 1.7; }
+
+.md-typeset h1 {
+  font-size: 50px;
+  line-height: 1.1;
+}
+
+.md-typeset h2 {
+  font-size: 38px;
+  line-height: 1.1;
+}
+
+.md-typeset h3 {
+  font-size: 28px;
+  line-height: 1.4;
+}
+
+.md-typeset p {
+  font-size: 19px;
+  line-height: 1.4;
+  color: var(--color--grey-70);
+}
+
+.md-typeset .glossary-term {
+  border-bottom: 2px dotted var(--color--coral);
+}
+
+.md-nav .md-nav__title {
+  font-size: 18px;
+  color: var(--color--eclipse);
+}
+
+.md-nav--primary {
+  font-size: 16px;
+}
+
+.md-nav--secondary {
+  font-size: 14px;
+}
+
+@media (min-width: 1200px) {
+  .md-typeset h1 {
+    font-size: 80px;
+  }
+
+  .md-typeset h2 {
+    font-size: 54px;
+  }
+
+  .md-typeset h3 {
+    font-size: 32px;
+  }
+
+  .md-typeset p {
+    font-size: 21px;
+  }
+}
+
+/* --- Layout --- */
+.md-main {
+  margin-bottom: 120px;
+}
+
+.md-content {
+  max-width: var(--content-width);
+}
+
+/* --- Header title override --- */
+.md-header__topic .md-ellipsis {
+  position: relative;
+  visibility: hidden;
+}
+
+.md-header__topic .md-ellipsis::after {
+  content: "Constitution";
+  color: var(--color--coral);
+  position: absolute;
+  left: 0;
+  top: 1px;
+  visibility: visible;
+}
+
+[dir="ltr"] .md-header__title {
+  margin-left: 0;
+}
 
 /* --- Buttons / links --- */
-.md-button, .md-typeset .md-button {
-  border-radius: 999px;
-  padding: .6rem 1.1rem;
-  font-weight: 600;
-}
-a:hover { text-decoration-thickness: 2px; text-underline-offset: 3px; }
-
-/* --- Cards / surfaces (admonitions, code blocks) --- */
-.md-typeset .admonition,
-.md-typeset details,
-.md-typeset .highlight {
-  border-radius: var(--tb-radius);
-  box-shadow: var(--tb-shadow);
+.md-top {
+  color: var(--color--eclipse);
 }
 
-/* --- Header & nav tweaks --- */
-.md-header { box-shadow: 0 4px 12px rgba(0,0,0,.04); }
-.md-nav__title, .md-nav__link--active { font-weight: 650; }
+/* --- Navigation  --- */
+.md-nav__title,
+.md-nav__link--active {
+  font-weight: 650;
+}
 
-/* --- Optional hero spacing on Home --- */
-.md-content__inner > :is(h1, h2):first-child { margin-top: .25rem; }
+

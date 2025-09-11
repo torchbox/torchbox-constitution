@@ -88,6 +88,12 @@
   }
 }
 
+/* --- Links --- */
+.md-typeset a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 /* --- Layout --- */
 .md-main {
   margin-bottom: 120px;

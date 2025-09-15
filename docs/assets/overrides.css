@@ -56,6 +56,14 @@
   color: var(--color--grey-70);
 }
 
+.md-typeset .intro {
+  font-size: 28px;
+  line-height: 1.4;
+  font-weight: 300;
+  color: var(--color--eclipse);
+  margin-bottom: 40px;
+}
+
 .md-typeset .glossary-term {
   border-bottom: 2px dotted var(--color--coral);
 }
@@ -88,6 +96,10 @@
 
   .md-typeset p {
     font-size: 21px;
+  }
+
+  .md-typeset .intro {
+    font-size: 32px;
   }
 }
 

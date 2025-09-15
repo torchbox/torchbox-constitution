@@ -1,8 +1,10 @@
-# Introduction
+# Torchbox Constitution
 
-At Torchbox, we're proud to be employee-owned. When a company is owned
-and run by the people who work for it, it can serve not just the pursuit
-of profit, but also people, purpose, and long-term impact.
+<div class="intro">
+    At Torchbox, we're proud to be employee-owned. When a company is owned
+    and run by the people who work for it, it can serve not just the pursuit
+    of profit, but also people, purpose, and long-term impact.
+</div>
 
 Torchbox isn't privately owned by shareholders or publicly listed; it is
 owned by the people who work here, through an Employee Ownership Trust

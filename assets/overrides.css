@@ -22,7 +22,7 @@
 /* --- Map tokens to Material variables --- */
 :root {
   --md-primary-fg-color: var(--color--eclipse);
-  --md-accent-fg-color: var(--color--coral);
+  --md-accent-fg-color: var(--color--coral-dark);
 
   --md-text-font: var(--font--primary);
 

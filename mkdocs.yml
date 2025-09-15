@@ -19,12 +19,6 @@ theme:
     - scheme: default
       primary: custom
       accent: custom
-    - scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
   logo: assets/torchbox-logo.svg
   favicon: assets/torchbox-favicon.png
 

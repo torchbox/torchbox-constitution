@@ -5,6 +5,7 @@
   --color--grey-20: #ccc;
   --color--grey-50: #808080;
   --color--grey-70: #4d4d4d;
+  --color--eclipse-light: #f7f7f7;
   --color--eclipse: #1d2325;
   --color--black: #000;
   --color--coral: #ee5276;
@@ -137,6 +138,30 @@
 
 [dir="ltr"] .md-header__title {
   margin-left: 0;
+}
+
+/* --- Footer --- */
+.md-footer {
+  background-color: var(--color--eclipse-light);
+  color: var(--color--grey-70);
+}
+
+.md-footer-meta {
+  background-color: unset;
+}
+
+.md-footer-meta.md-typeset .md-social__link {
+  color: var(--color--grey-70);
+}
+
+.md-footer-meta.md-typeset .md-social__link:hover,
+.md-footer-meta.md-typeset .md-social__link:focus {
+  color: var(--color--eclipse);
+}
+
+.md-footer-meta .md-social__link svg {
+  max-height: 1.3rem;
+  vertical-align: middle;
 }
 
 /* --- Buttons / links --- */

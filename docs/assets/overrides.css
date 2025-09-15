@@ -213,20 +213,104 @@
   position: absolute;
 }
 
-/* --- Draft photo grid --- */
-.image-grid {
+/* --- Trustees --- */
+.trustees {
   display: grid;
-  grid-template-columns: repeat(3, var(--photo-size));
-  grid-auto-rows: var(--photo-size);
-  justify-content: space-between;
-  gap: 1rem;
-  margin: 3rem 1.5rem;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 3rem 0;
 }
 
-.image-grid__item img {
-  width: 100%;
+@media (min-width: 640px) {
+  .trustees {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.trustee {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+@media (min-width: 640px) {
+  .trustee {
+    flex-direction: column;
+    gap: 0;
+  }
+}
+
+.avatar {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+@media (min-width: 640px) {
+  .avatar {
+    height: 150px;
+    width: 150px;
+  }
+}
+
+.avatar .avatar__image {
   height: 100%;
-  display: block;
+  width: 100%;
   object-fit: cover;
   border-radius: 50%;
+}
+
+.avatar::after,
+.avatar::before {
+  content: "";
+  display: block;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.avatar::before {
+  border: 1px solid var(--color--sky);
+  width: 102%;
+  height: 103%;
+  inset: -3px 2px;
+}
+
+@media (min-width: 640px) {
+  .avatar::before {
+    width: 95%;
+    height: 95%;
+    border-width: 2px;
+    inset: 2px -3px;
+  }
+}
+
+.avatar::after {
+  border: 2px solid var(--color--coral);
+  height: 95%;
+  width: 95%;
+  inset: 2px 3px;
+}
+
+@media (min-width: 640px) {
+  .avatar::after {
+    width: 102%;
+    height: 103%;
+    border-width: 3px;
+    inset: -5px -4px;
+  }
+}
+
+.md-typeset .trustee__name {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--color--eclipse);
+  margin-bottom: 0;
+}
+
+.md-typeset .trustee__role {
+  font-size: 16px;
+  color: var(--color--eclipse);
+  margin-top: 0;
 }

@@ -18,9 +18,11 @@
                 </clipPath>
             </defs>
         </svg>
-    
+
     </div>
+
 </div>
+
 <div class="intro">
     At Torchbox, we're proud to be employee-owned. When a company is owned
     and run by the people who work for it, it can serve not just the pursuit
@@ -64,11 +66,61 @@ Employee ownership is a learning journey, so this Constitution is a work
 in progress. It will evolve to safeguard our company and strengthen our
 culture for the Co-owners of the future.
 
-<div class="image-grid">
-  <div class="image-grid__item"><img src="assets/images/Kyle.webp" alt="" loading="lazy" decoding="async"></div>
-  <div class="image-grid__item"><img src="assets/images/Lisa.webp" alt="" loading="lazy" decoding="async"></div>
-  <div class="image-grid__item"><img src="assets/images/Felicity.webp" alt="" loading="lazy" decoding="async"></div>
-  <div class="image-grid__item"><img src="assets/images/Olly.webp" alt="" loading="lazy" decoding="async"></div>
-  <div class="image-grid__item"><img src="assets/images/Ben.webp" alt="" loading="lazy" decoding="async"></div>
-  <div class="image-grid__item"><img src="assets/images/Ben.webp" alt="" loading="lazy" decoding="async"></div>
+## Your Trustee Board
+
+<div class="trustees">
+    <div class="trustee">
+        <div class="avatar">
+            <img src="assets/images/Kyle.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name"><a href="mailto:kyle.bayler@torchbox.com">Kyle Bayliss</a></p>
+            <p class="trustee__role">Engagement</p>
+        </div>
+    </div>
+    <div class="trustee">
+        <div class="avatar">
+            <img src="assets/images/Lisa.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name"><a href="mailto:lisa.ballam@torchbox.com">Lisa Ballam</a></p>
+            <p class="trustee__role">Communications</p>
+        </div>
+    </div>
+    <div class="trustee">
+        <div class="avatar">
+            <img src="assets/images/Felicity.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name"><a href="mailto:felicity.hindle@torchbox.com">Felicity Hindle</a></p>
+            <p class="trustee__role">Voice Group Lead</p>
+        </div>
+    </div>
+    <div class="trustee">
+        <div class="avatar">
+            <img src="assets/images/Ben.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name"><a href="mailto:ben.heasman@torchbox.com">Ben Heasman</a></p>
+            <p class="trustee__role">Finance/Chair</p>
+        </div>
+    </div>
+    <div class="trustee">
+        <div class="avatar">
+            <img src="assets/images/Olly.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name"><a href="mailto:olly@torchbox.com">Olly Willans</a></p>
+            <p class="trustee__role">Founder</p>
+        </div>
+    </div>
+    <div class="trustee">
+        <div class="avatar">
+            <img src="assets/images/Jo.png" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name">Jo Undrell</p>
+            <p class="trustee__role">Independent Trustee</p>
+        </div>
+    </div>
 </div>

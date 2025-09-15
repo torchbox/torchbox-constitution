@@ -1,7 +1,9 @@
 :root {
   /* Torchbox theme colors */
   --color--white: #fff;
+  --color--grey-5: #efefef;
   --color--grey-20: #ccc;
+  --color--grey-50: #808080;
   --color--grey-70: #4d4d4d;
   --color--eclipse: #1d2325;
   --color--black: #000;
@@ -157,6 +159,33 @@
 
 .md-nav__link--active {
   font-weight: 650;
+}
+
+/* --- Background swirls --- */
+.swirls {
+  position: absolute;
+  display: none;
+}
+
+@media (min-width: 1200px) {
+  .swirls {
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+}
+
+.swirls__container {
+  position: absolute;
+  width: 100%;
+  aspect-ratio: 1512 / 1239;
+}
+
+.swirls__icon {
+  position: absolute;
 }
 
 /* --- Draft photo grid --- */

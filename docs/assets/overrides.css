@@ -83,7 +83,7 @@
   font-size: 14px;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1220px) {
   .md-typeset h1 {
     font-size: 80px;
   }
@@ -167,7 +167,7 @@
   display: none;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1220px) {
   .swirls {
     z-index: -1;
     top: 0;

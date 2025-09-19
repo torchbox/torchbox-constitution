@@ -232,8 +232,13 @@
 .trustee {
   display: flex;
   align-items: center;
-  text-align: center;
   gap: 1rem;
+}
+
+@media (min-width: 640px) {
+  .trustee {
+    text-align: center;
+  }
 }
 
 @media (min-width: 640px) {

@@ -75,7 +75,6 @@ culture for the Co-owners of the future.
         </div>
         <div>
             <p class="trustee__name"><a href="mailto:kyle.bayler@torchbox.com">Kyle Bayliss</a></p>
-            <p class="trustee__role">Engagement</p>
         </div>
     </div>
     <div class="trustee">
@@ -84,25 +83,23 @@ culture for the Co-owners of the future.
         </div>
         <div>
             <p class="trustee__name"><a href="mailto:lisa.ballam@torchbox.com">Lisa Ballam</a></p>
-            <p class="trustee__role">Communications</p>
+            <p class="trustee__role">Covering for Felicity Hindle</p>
         </div>
     </div>
     <div class="trustee">
         <div class="avatar">
-            <img src="assets/images/Felicity.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+            <img src="assets/images/Helen.png" alt="" loading="lazy" decoding="async" class="avatar__image">
         </div>
         <div>
-            <p class="trustee__name"><a href="mailto:felicity.hindle@torchbox.com">Felicity Hindle</a></p>
-            <p class="trustee__role">Voice Group Lead</p>
+            <p class="trustee__name"><a href="mailto:helenb@torchbox.com">Helen Chapman</a></p>
         </div>
     </div>
     <div class="trustee">
         <div class="avatar">
-            <img src="assets/images/Ben.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+            <img src="assets/images/Jonny.png" alt="" loading="lazy" decoding="async" class="avatar__image">
         </div>
         <div>
-            <p class="trustee__name"><a href="mailto:ben.heasman@torchbox.com">Ben Heasman</a></p>
-            <p class="trustee__role">Finance/Chair</p>
+            <p class="trustee__name"><a href="mailto:jonny.peacock@torchbox.com">Jonny Peacock</a></p>
         </div>
     </div>
     <div class="trustee">
@@ -111,7 +108,6 @@ culture for the Co-owners of the future.
         </div>
         <div>
             <p class="trustee__name"><a href="mailto:olly@torchbox.com">Olly Willans</a></p>
-            <p class="trustee__role">Founder</p>
         </div>
     </div>
     <div class="trustee">

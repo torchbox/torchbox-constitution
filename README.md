@@ -39,7 +39,7 @@ To deploy the documentation to GitHub Pages:
 mkdocs gh-deploy
 ```
 
-The documentation is automatically deployed to: https://torchbox.github.io/torchbox-constitution/
+The documentation is automatically deployed to: https://constitution.torchbox.com/
 
 ## Documentation Structure
 

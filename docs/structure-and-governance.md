@@ -165,12 +165,11 @@ any time via the Trustees.
 
 ### 3.7 Special Consents
 
-3.7.1 [Special
-Consents](https://docs.google.com/spreadsheets/d/1ZxQNdc9coJDqxPCIYbxlXpN_8ted-97_BMQXwLedClA/edit?gid=672296824#gid=672296824)
-are a register of important decisions, showing for each: who makes the
+3.7.1 Special
+Consents are a register of important decisions, showing for each: who makes the
 decision, the majority required, and whether employees must be consulted
 beforehand. The full register is kept in the separate *Special Consents*
-document, maintained alongside this Constitution.
+document (link to follow), maintained alongside this Constitution.
 
 3.7.2 Each consent specifies the decision-making body or bodies (SLT,
 Trust Board, Company Board, or a combination), the majority needed

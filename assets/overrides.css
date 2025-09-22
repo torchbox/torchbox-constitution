@@ -112,6 +112,10 @@
   text-underline-offset: 2px;
 }
 
+.md-typeset .headerlink {
+  display: none;
+}
+
 /* --- Layout --- */
 .md-main {
   margin-bottom: 120px;

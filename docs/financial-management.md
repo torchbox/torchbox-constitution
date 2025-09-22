@@ -3,7 +3,7 @@
 *A values-led, co-owner-first framework for financial decision-making
 and governance at Torchbox*
 
-### 4.1 Financial transparency and accountability**
+### 4.1 Financial transparency and accountability
 
 *Understanding our financial journey helps us grow together as co-owners.*
 
@@ -15,7 +15,7 @@ and governance at Torchbox*
 
 
 
-### 4.2 Profit share**
+### 4.2 Profit share
 
 *Success should be shared fairly and transparently across the business.*
 
@@ -69,7 +69,7 @@ and income of half the threshold would receive 50% of the £3,600 bonus.
 is paid to receive the bonus. If they have left the company before this
 point, they will not receive the bonus for that period.
 
-### 4.4 Financial sustainability and investment**
+### 4.4 Financial sustainability and investment
 
 *Investment protects Torchbox's future, even when that means reducing
 short-term rewards.*
@@ -86,7 +86,7 @@ held in cash rather than outstanding invoices.
 allow for strategic investment. Any such decision must be approved by
 the Trust Board.
 
-### 4.5 Fair compensation**
+### 4.5 Fair compensation
 
 *Everyone deserves to be paid fairly.*
 
@@ -95,8 +95,8 @@ exercise assessing fairness including gender pay gap, inflation, ease of
 recruitment, and external market data. The findings are shared with all
 co-owners.
 
-4.5.2 No co-owner will earn less than the real [[Living
-Wage]{.underline}](https://www.livingwage.org.uk/what-real-living-wage)
+4.5.2 No co-owner will earn less than the real [Living
+Wage](https://www.livingwage.org.uk/what-real-living-wage)
 or the equivalent in their country of residence.
 
 4.5.3 We provide enhanced policies beyond statutory minimums, including in
@@ -118,7 +118,7 @@ rise, which will be included in their next month's pay.
 4.5.6 We listen to co-owner feedback when evaluating our approach to
 compensation.
 
-### 4.6 SLT pay**
+### 4.6 SLT pay
 
 *Leadership rewards must reflect performance and responsibility, not
 just seniority.*
@@ -149,7 +149,7 @@ the company's resilience and evolution.
 
 4.6.4 The Remuneration Committee will make the final decision.
 
-### 4.7 Pay for International Associates**
+### 4.7 Pay for International Associates
 
 We aim for an approach that ensures equitable treatment while
 recognising the unique considerations of international engagements:

@@ -1,4 +1,4 @@
-# 2. Purpose & principles
+# 2. Purpose & Principles
 
 ### 2.1. Our purpose
 
@@ -9,7 +9,7 @@ choice of work and clients, and defines our contribution to society.
 
 ### 2.2. Our vision
 
-*We\'re setting a new standard for high-impact, responsible business.*
+*We're setting a new standard for high-impact, responsible business.*
 
 Our vision for the future is built on three pillars:
 
@@ -29,7 +29,8 @@ our values and prioritises our people and planet.
 They foster a culture of responsibility, inclusivity, learning, quality,
 and joy:
 
-2.3.1 **Spread the Joy:**\
+2.3.1 **Spread the Joy:**
+
 The enjoyment value
 
 -   Find ways to connect with each other that create optimism and joy
@@ -110,7 +111,7 @@ the work might seem to serve a positive purpose.
 
 *We take action to reduce our environmental footprint.*
 
-2.6.1 We choose not to work with the most carbon-intensive industries[^1].
+2.6.1 We choose not to work with the most carbon-intensive industries.
 
 2.6.2 We help clients understand and reduce their digital emissions.
 

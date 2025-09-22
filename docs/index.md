@@ -108,6 +108,7 @@ culture for the Co-owners of the future.
         </div>
         <div>
             <p class="trustee__name"><a href="mailto:olly@torchbox.com">Olly Willans</a></p>
+            <p class="trustee__role">Founder Trustee</p>
         </div>
     </div>
     <div class="trustee">

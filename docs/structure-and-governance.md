@@ -168,19 +168,22 @@ any time via the Trustees.
 3.7.1 Special
 Consents are a register of important decisions, showing for each: who makes the
 decision, the majority required, and whether employees must be consulted
-beforehand. The full register is kept in the separate *Special Consents*
-document (link to follow), maintained alongside this Constitution.
+beforehand. The full register is kept in the separate
+[Special Consents](special-consents.md) document, maintained alongside this
+Constitution.
 
-3.7.2 Each consent specifies the decision-making body or bodies (SLT,
-Trust Board, Company Board, or a combination), the majority needed
-(simple, supermajority, or unanimous), and whether employee consultation
-is required before a decision is made. Some require joint approval;
-others can be made by one body alone.
+3.7.2 Each consent specifies the role of the Company Board of Directors,
+the Trust and employees. For each, the role is one of: approval by a
+supermajority (75%), approval by a majority, being consulted, or being
+informed. Some decisions require approval from more than one of these;
+others are made by one body, with the others consulted or informed.
 
 3.7.3 Examples:
 
--   **Capital expenditure over £50k (unbudgeted)** -- requires joint approval by the Company Board and Trust Board, both by simple majority
+-   **Capital expenditure over £75k** -- requires approval by a majority of the Company Board, with the Trust consulted
 
--   **Redundancies of more than three people** -- requires approval by both Company Board and SLT (simple majority in each), with employees consulted beforehand
+-   **Redundancies of 5 people or more within any 90-day period** -- requires approval by a majority of the Company Board, with the Trust consulted and employees informed
+
+-   **Sale or merger of the business** -- requires approval by a 75% supermajority of both the Company Board and the Trust, and by a majority of employees
 
 

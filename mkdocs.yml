@@ -26,10 +26,12 @@ extra_css:
   - https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap
   - assets/overrides.css
   - assets/glossary.css
+  - assets/special-consents.css
 
 extra_javascript:
   - assets/glossary.js
   - assets/glossary.json
+  - assets/special-consents.js
 
 extra:
   social:
@@ -60,4 +62,5 @@ nav:
   - 2. Purpose & Principles: purpose-and-principles.md
   - 3. Structure & Governance: structure-and-governance.md
   - 4. Financial Management: financial-management.md
+  - Special Consents: special-consents.md
   - Glossary: glossary.md

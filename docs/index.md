@@ -71,23 +71,6 @@ culture for the Co-owners of the future.
 <div class="trustees">
     <div class="trustee">
         <div class="avatar">
-            <img src="assets/images/Kyle.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
-        </div>
-        <div>
-            <p class="trustee__name"><a href="mailto:kyle.bayler@torchbox.com">Kyle Bayliss</a></p>
-        </div>
-    </div>
-    <div class="trustee">
-        <div class="avatar">
-            <img src="assets/images/Lisa.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
-        </div>
-        <div>
-            <p class="trustee__name"><a href="mailto:lisa.ballam@torchbox.com">Lisa Ballam</a></p>
-            <p class="trustee__role">Covering for Felicity Hindle</p>
-        </div>
-    </div>
-    <div class="trustee">
-        <div class="avatar">
             <img src="assets/images/Helen.png" alt="" loading="lazy" decoding="async" class="avatar__image">
         </div>
         <div>
@@ -96,10 +79,26 @@ culture for the Co-owners of the future.
     </div>
     <div class="trustee">
         <div class="avatar">
-            <img src="assets/images/Jonny.png" alt="" loading="lazy" decoding="async" class="avatar__image">
+            <img src="assets/images/Felicity.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
         </div>
         <div>
-            <p class="trustee__name"><a href="mailto:jonny.peacock@torchbox.com">Jonny Peacock</a></p>
+            <p class="trustee__name"><a href="mailto:felicity.hindle@torchbox.com">Felicity Hindle</a></p>
+        </div>
+    </div>
+    <div class="trustee">
+        <div class="avatar">
+            <img src="assets/images/Michael.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name"><a href="mailto:michael.worthington@torchbox.com">Michael Worthington</a></p>
+        </div>
+    </div>
+    <div class="trustee">
+        <div class="avatar">
+            <img src="assets/images/Simon.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name"><a href="mailto:simon.evans@torchbox.com">Simon Evans</a></p>
         </div>
     </div>
     <div class="trustee">

@@ -71,7 +71,7 @@ culture for the Co-owners of the future.
 <div class="trustees">
     <div class="trustee">
         <div class="avatar">
-            <img src="assets/images/Helen.png" alt="" loading="lazy" decoding="async" class="avatar__image">
+            <img src="assets/images/Helen.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
         </div>
         <div>
             <p class="trustee__name"><a href="mailto:helenb@torchbox.com">Helen Chapman</a></p>

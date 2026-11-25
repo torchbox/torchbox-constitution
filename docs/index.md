@@ -103,6 +103,14 @@ culture for the Co-owners of the future.
     </div>
     <div class="trustee">
         <div class="avatar">
+            <img src="assets/images/Charmagne.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
+        </div>
+        <div>
+            <p class="trustee__name"><a href="mailto:charmagne.rbt@torchbox.com">Charmagne RBT</a></p>
+        </div>
+    </div>
+    <div class="trustee">
+        <div class="avatar">
             <img src="assets/images/Olly.webp" alt="" loading="lazy" decoding="async" class="avatar__image">
         </div>
         <div>
